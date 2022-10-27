@@ -1,0 +1,3 @@
+Escribiendo un fichero con python
+con El curso de openbootcamp
+desde codespaces
