@@ -1,1 +1,4 @@
-Datos1Datos2
+aprendiendo a escribir
+un archivo en python con
+openbootcamp y codespaces
+Hola desde la consola
