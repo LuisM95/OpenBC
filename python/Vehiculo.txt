@@ -1,0 +1,6 @@
+Detalles carro:
+ color: Gray 
+ Puertas: 5 
+ Ruedas: 4 
+ Cilindrada: 140 
+ Velocidad: 240
