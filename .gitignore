@@ -9,3 +9,7 @@ python/prueba.db
 python/bd/demo/practicas.py
 python/bd/demo/prueba.db
 python/bd/demo/pruebas.py
+python/django/miproyecto
+python/django/manage.py
+python/django/db.sqlite3
+python/django/catalog
